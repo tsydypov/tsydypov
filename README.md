@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir Tsydypov
-- 👀 I’m interested in learning Python and QA Automatization
-- 🌱 I’m currently learning QA Automatization using Python and Selenium
+- 👀 I’m interested in learning Python and Django
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on free projects
 - 📫 How to reach me: tsydypov03@mail.com or write me here.
 
